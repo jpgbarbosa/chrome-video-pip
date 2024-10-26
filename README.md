@@ -1,7 +1,7 @@
-# Video PiP Enabler
+# Chrome Video PiP
 
-![Lint Status](https://github.com/jpgbarbosa/video-pip-enabler/workflows/CI/badge.svg?job=lint)
-![Test Status](https://github.com/jpgbarbosa/video-pip-enabler/workflows/CI/badge.svg?job=test)
+![Lint Status](https://github.com/jpgbarbosa/chrome-video-pip/workflows/CI/badge.svg?job=lint)
+![Test Status](https://github.com/jpgbarbosa/chrome-video-pip/workflows/CI/badge.svg?job=test)
 
 Chrome extension to enable resizable picture-in-picture mode for videos
 

@@ -1,5 +1,5 @@
 {
-  "name": "video-pip-enabler",
+  "name": "chrome-video-pip",
   "version": "1.0.0",
   "description": "Chrome extension to enable resizable picture-in-picture mode for videos",
   "scripts": {
