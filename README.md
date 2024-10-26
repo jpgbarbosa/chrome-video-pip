@@ -1,6 +1,13 @@
-# Video PiP Enabler Chrome Extension
+# Video PiP Enabler
 
-This Chrome extension detects videos on web pages and allows users to enable a resizable Picture-in-Picture (PiP) mode for easy multitasking.
+![Lint Status](https://github.com/jpgbarbosa/video-pip-enabler/workflows/CI/badge.svg?job=lint)
+![Test Status](https://github.com/jpgbarbosa/video-pip-enabler/workflows/CI/badge.svg?job=test)
+
+Chrome extension to enable resizable picture-in-picture mode for videos
+
+## Description
+
+This Chrome extension detects videos on web pages and enables a resizable picture-in-picture mode for easy multitasking.
 
 ## Features
 
