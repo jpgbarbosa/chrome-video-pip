@@ -1,0 +1,18 @@
+{
+  "name": "video-pip-enabler",
+  "version": "1.0.0",
+  "description": "Chrome extension to enable resizable picture-in-picture mode for videos",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.0.6",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6",
+    "jest-chrome": "^0.7.2",
+    "jest-environment-jsdom": "^27.0.6"
+  }
+}
